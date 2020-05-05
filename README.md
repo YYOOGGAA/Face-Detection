@@ -4,7 +4,9 @@ Face Detection Project
 -description-
 
 It's the project that can detect easy single front face.
+
 Some pictures with multiple faces that any two faces aren't too close to each other can be successfully detected.
+
 Cats and Dogs can be correctly detected as not-face input, but piggy doll with pink skin can't be successfully detected.
 
 
